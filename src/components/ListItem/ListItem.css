@@ -1,0 +1,21 @@
+.buttons
+{
+    display: inline-block;
+    position: absolute;
+    position: relative;
+    left: 50px;
+}
+.important
+{
+    color: tomato;
+    font-weight: bold;
+}
+.done
+{
+    color: #646464;
+    font-weight: normal;
+    text-decoration: line-through;
+}
+.todo-list-title:hover{
+    cursor: pointer;
+}
